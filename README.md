@@ -31,7 +31,7 @@ Digital-tube-multi-function-clock-based-on-51MCU
 （5）在时钟界面，按下K5，进入秒表界面。按下K1开始计时/暂停，K2为清零，K4为确认并返回时钟界面。
 
 ## 原理图
-
+[原理图](https://github.com/fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU/blob/main/picture/SCH_Schematic1_1-P1_2026-01-26.png)
 ## PCB
 
 ## Star History

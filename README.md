@@ -1,6 +1,6 @@
 Digital-tube-multi-function-clock-based-on-51MCU
 
-##基本功能
+## 基于51单片机的多功能数码管时钟
 
 ## Star History
 

@@ -16,6 +16,9 @@ Digital-tube-multi-function-clock-based-on-51MCU
 
 （6）添加温度传感器模块，实时显示现在温度
 
+交互：由五个独立按键控制
+
+芯片：STC89C52RC
 
 ## Star History
 

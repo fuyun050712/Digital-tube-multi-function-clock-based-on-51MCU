@@ -33,7 +33,7 @@ Digital-tube-multi-function-clock-based-on-51MCU
 ## 原理图
 ![原理图](https://github.com/fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU/blob/main/picture/SCH_Schematic1_1-P1_2026-01-26.png)
 ## PCB
-![PCB]()
+![PCB](https://github.com/fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU/blob/main/picture/PCB_PCB1_2026-01-26.png)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU&type=date&legend=top-left)](https://www.star-history.com/#fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU&type=date&legend=top-left)

@@ -4,6 +4,8 @@ Digital-tube-multi-function-clock-based-on-51MCU
 
 芯片：STC89C52RC
 
+项目代码全部集中在main.c文件中。
+
 基本功能：
 
 （1）电子时钟：即可以实现常见的电子时钟功能，并能分别对“时”、“分”、“秒”进行设置包括可以显示。

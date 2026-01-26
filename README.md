@@ -4,7 +4,7 @@
 
 芯片：STC89C52RC
 
-项目代码全部集中在main.c文件中，方便直接复制进keil5中。
+项目代码全部集中在[main.c](https://github.com/fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU/blob/main/51clock(keil5)/main.c)文件中，方便直接复制进keil5中。
 
 基本功能：
 

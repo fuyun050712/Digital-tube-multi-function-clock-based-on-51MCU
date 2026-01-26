@@ -1,6 +1,6 @@
-## Digital-tube-multi-function-clock-based-on-51MCU
+# Digital-tube-multi-function-clock-based-on-51MCU
 
-# 基于51单片机的多功能数码管时钟
+## 基于51单片机的多功能数码管时钟
 
 芯片：STC89C52RC
 

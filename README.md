@@ -4,7 +4,7 @@ Digital-tube-multi-function-clock-based-on-51MCU
 
 芯片：STC89C52RC
 
-项目代码全部集中在main.c文件中。
+项目代码全部集中在main.c文件中，方便直接复制进keil5中。
 
 基本功能：
 
@@ -36,6 +36,9 @@ Digital-tube-multi-function-clock-based-on-51MCU
 ![原理图](https://github.com/fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU/blob/main/picture/SCH_Schematic1_1-P1_2026-01-26.png)
 ## PCB
 ![PCB](https://github.com/fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU/blob/main/picture/PCB_PCB1_2026-01-26.png)
+
+喜欢的话不妨给个⭐
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU&type=date&legend=top-left)](https://www.star-history.com/#fuyun050712/Digital-tube-multi-function-clock-based-on-51MCU&type=date&legend=top-left)
